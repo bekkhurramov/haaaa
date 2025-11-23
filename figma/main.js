@@ -202,8 +202,22 @@ function renderWebinars() {
                     </div>
                 </div>
             </div>
-        `;
-    });
+            <div>
+      <div class="max-w-7xl mx-auto ">
+            <img src="./img/ciziq.png" alt="ciziq" class="mt-4">
+        </div> <div class=" max-w-7xl mx-auto flex flex-col md:flex-row justify-between  mb-16">
+          <div>
+             <p>Copyright © MyCourse.io 2024. All Rights Reserved</p>
+            </div>
+                <div class="flex gap-5">
+                <img src="./img/Twitter.png" alt="tiwetir">
+                <img src="./img/Instagram.png" alt="istagram">
+                <img src="./img/Facebook.png" alt="faesbook">
+
+</div>
+</div>
+        </footer>
+    `;
 }
 
 renderCourses();
