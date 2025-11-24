@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dddc534f-4e99-4b55-a039-a398476be4b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/figma/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figma/img/Facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figma/img/Instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figma/img/Twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figma/img/bannerRight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figma/img/ciziq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figma/img/logo1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figma/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/figma/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figma/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/figma/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="dddc534f-4e99-4b55-a039-a398476be4b0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,23 +21,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Dell/WebstormProjects/untitled8/figma/img",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/WebstormProjects/untitled8/figma/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\WebstormProjects\untitled8\figma\img" />
@@ -75,6 +64,7 @@
       <workItem from="1763726309642" duration="4000" />
       <workItem from="1763726331983" duration="1897000" />
       <workItem from="1763735466835" duration="10664000" />
+      <workItem from="1763966036506" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="pastki footer">
       <option name="closed" value="true" />
@@ -100,13 +90,11 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/figma/main.js</url>
           <line>222</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/figma/main.js</url>
           <line>223</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
