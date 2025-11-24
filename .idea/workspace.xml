@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dddc534f-4e99-4b55-a039-a398476be4b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/figma/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/Facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/Instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/Twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/bannerRight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/ciziq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/logo1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/figma/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/figma/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figma/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/figma/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figma/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/figma/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="35kOhwZrysptZM0UlvfB5TpDEfY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,6 +45,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,11 +71,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763650726112</updated>
-      <workItem from="1763650727640" duration="12462000" />
+      <workItem from="1763650727640" duration="13908000" />
+      <workItem from="1763726309642" duration="4000" />
+      <workItem from="1763726331983" duration="1897000" />
+      <workItem from="1763735466835" duration="10664000" />
     </task>
+    <task id="LOCAL-00001" summary="pastki footer">
+      <option name="closed" value="true" />
+      <created>1763897158519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763897158519</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pastki footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="pastki footer" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/figma/main.js</url>
+          <line>222</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/figma/main.js</url>
+          <line>223</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
